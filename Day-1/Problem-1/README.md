@@ -10,4 +10,4 @@ On this Program we simply  see various variable type & print them in 2 diffrent 
 ## Output:-
 
 <img 
- width ="600" src="https://i.postimg.cc/02Cb8kPS/Variables.png">
+ width ="600" height="80" src="https://i.postimg.cc/02Cb8kPS/Variables.png">
